@@ -1,0 +1,22 @@
+﻿Day 1 - OS
+
+
+1. Difference between Tangile and Intangible ?
+Ans : Tangible :
+	1. Tangible goods are physical products defined by the ability to be touched. 
+	2. They are different from intangible goods, which may have value  and can be deprecated.
+	3. Also, the cost of tangible goods can be easily determined.
+	4. Vehicles, plants and machinery are the examples of Tangible goods.             
+      Intangible :
+	1. An intangible good is claimed to be a type of good that does not have a physical nature as opposed to a physical good
+	2. They are different from tangible goods, which may have value and are amortized.
+	3. As opposed to Tangible goods, cost of Intangible goods is much harder to determine.
+	4. Software, logo, patent, etc are examples of intangible goods.
+
+
+2. Is OS tangibe or intangible ?
+Ans : Yes, it is an intangible asset because it meets all the criteria.
+      However, operating system is an integral part of the computers, because the computers can’t run without the system.
+      Therefore, you would recognize computers together with operating system as properly, plant and equipment, so no seperate intangible asset.
+                
+3.

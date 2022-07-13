@@ -1,0 +1,43 @@
+Day 2 - Git Basics
+
+It is a good idea to introduce yourself to Git with your name and public email address before doing any operation. The easiest way to do so is:
+
+1) For configuring User Name :
+git config --global user.name "Your Name Comes Here"
+
+2) For configuring User Email : 
+git config --global user.email you@yourdomain.example.com
+
+3) Create and open a Folder :
+a) Create Folder
+mkdir Folder_Name
+b) Open Folder
+cd Folder_Name
+
+4) Initialize working directory to repository :
+git init 
+Note : you may notice a new directory created, named ".git".
+
+5) Create a text file :
+touch File_Name (for example,touch F1.txt)
+
+6) Open the created fie in notepad :
+notepad File_Name
+note : If the command is giving an error then use Start File_Name
+
+7) To know the state of working directory :
+git status
+
+8) Next, tell Git to take a snapshot of the contents of all files under the current directory (note the .)
+git add . (for current file)
+Note : For specific file use git add File_Name  
+
+9) This snapshot is now stored in a temporary staging area which Git calls the "index". You can permanently store the contents of the index in the repository with :
+git commit -m "Message" (-m in here is for the message)
+
+You’ve now stored the first version of your project in Git.
+10) Check the state of working directory :
+git status
+
+11) In order to check all the commits in a repository's history :
+git log
